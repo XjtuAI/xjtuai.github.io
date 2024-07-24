@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Gaoxin Alumni Netowrk"
-title:              "Gaoxin Alumni Netowrk"
-description:        "Gaoxin Alumni Netowrk is a platform for alumni of Gaoxin High School to connect, share, and collaborate."
+name:               "XJTU AI Research"
+title:              "XJTU AI Research"
+description:        "The XJTU AI Research Network is a platform for Xi'an Jiaotong University students to connect, share, and collaborate in the field of artificial intelligence."
 
 
 # URL
-url:                https://gaoxinschool.github.io
+url:                https://xjtuai.github.io
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
