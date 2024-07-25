@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
+![banner](images/banner.jpg)
+
 The AI Research Network at Xi'an Jiaotong University is dedicated to advancing the frontiers of artificial intelligence through innovation and collaboration. Our network serves as a hub for students, scholars, industry professionals, and financial experts to converge and exchange ideas.
 
 - For students engaged in AI research, this is a base for brainstorming and academic exchange.
