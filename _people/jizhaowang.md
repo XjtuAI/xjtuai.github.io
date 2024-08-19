@@ -2,6 +2,7 @@
 name: Jizhao Wang
 position: fac
 avatar: jizhaowang.jpg
+joined: 2024
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

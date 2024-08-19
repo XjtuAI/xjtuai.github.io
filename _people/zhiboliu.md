@@ -2,7 +2,7 @@
 name: Zhi-Bo Liu
 position: fac
 avatar: zhiboliu.jpg
-
+joined: 2021
 ---
 
 <img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
