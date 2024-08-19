@@ -9,7 +9,7 @@ description:        "The XJTU AI Research Network is a platform for Xi'an Jiaoto
 
 
 # URL
-url:                https://xjtuai.github.io
+url:                https://xjtuai.com
 baseurl:            
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
@@ -32,8 +32,8 @@ nav:
   #   href:           "/research"
   # - name:           "publications"
   #   href:           "/publication"
-  # - name:           "people"
-  #   href:           "/people"
+  - name:           "members"
+    href:           "/members"
 #  - name:           "blog"
 #    href:           "/blog"
 #  - name:           "resources"
@@ -60,12 +60,12 @@ defaults:
   -
     scope:
       path:         ""
-      type:         "people"
+      type:         "members"
     values:
       layout:       "profile"
 
 
 collections:
-  people:
+  members:
     output: true
-    permalink: /people/:title/index.html
+    permalink: /members/:title/index.html
