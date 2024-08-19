@@ -1,9 +1,9 @@
 ---
 title: Members
-permalink: /members/
+permalink: /people/
 ---
 
-{% assign people_sorted = site.members | sort: 'joined' %}
+{% assign people_sorted = site.people| sort: 'joined' %}
 {% assign role_array = "sci|fac|ap|adjunctprofessor|postdoc|phd|grad|alumni" | split: "|" %}
 
 {% for role in role_array %}

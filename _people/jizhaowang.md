@@ -4,7 +4,7 @@ position: sci
 avatar: jizhaowang.jpg
 ---
 
-<img width="250" src="{{site.baseurl}}/images/members/{{page.avatar}}" data-action="zoom">
+<img width="250" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 - _First Affiliated Hospital of Xi'an Jiaotong University._ <br>
 - _Assistant Researcher and Attending Physician._

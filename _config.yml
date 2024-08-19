@@ -32,8 +32,8 @@ nav:
   #   href:           "/research"
   # - name:           "publications"
   #   href:           "/publication"
-  - name:           "members"
-    href:           "/members"
+  - name:           "people"
+    href:           "/people"
 #  - name:           "blog"
 #    href:           "/blog"
 #  - name:           "resources"
@@ -60,7 +60,7 @@ defaults:
   -
     scope:
       path:         ""
-      type:         "members"
+      type:         "people"
     values:
       layout:       "profile"
 
@@ -68,4 +68,4 @@ defaults:
 collections:
   members:
     output: true
-    permalink: /members/:title/index.html
+    permalink: /people/:title/index.html
