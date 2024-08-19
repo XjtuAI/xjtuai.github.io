@@ -1,6 +1,6 @@
 ---
 name: Zhi-Bo Liu
-position: sci
+position: fac
 avatar: zhiboliu.jpg
 
 ---

@@ -1,6 +1,6 @@
 ---
 name: Jizhao Wang
-position: sci
+position: fac
 avatar: jizhaowang.jpg
 ---
 
