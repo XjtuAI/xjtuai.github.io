@@ -3,7 +3,7 @@ title: Members
 permalink: /members/
 ---
 
-{% assign people_sorted = site.people | sort: 'joined' %}
+{% assign people_sorted = site.members | sort: 'joined' %}
 {% assign role_array = "sci|fac|ap|adjunctprofessor|postdoc|phd|grad|alumni" | split: "|" %}
 
 {% for role in role_array %}
@@ -16,6 +16,8 @@ permalink: /members/
 {% endif %}
 
 <div class="pos_header">
+{% if role == 'sci' %}
+<h3>Researchers</h3>
 {% if role == 'fac' %}
 <h3>Faculties</h3>
  {% elsif role == 'adjunctprofessor' %}
