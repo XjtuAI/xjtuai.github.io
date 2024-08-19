@@ -66,6 +66,6 @@ defaults:
 
 
 collections:
-  members:
+  people:
     output: true
     permalink: /people/:title/index.html
