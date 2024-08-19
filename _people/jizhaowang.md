@@ -12,7 +12,7 @@ joined: 2024
 
 <i class="fa fa-envelope-o"></i> <wangjz1104@xjtu.edu.cn><br>
 
-## Research Directions & Achi:
+## Research Directions & Achievements:
 - Basic research on esophageal and lung cancer. 
 - Expertise in the ablation treatment of pulmonary nodules.  
 - Focus on oxidative stress in the context of transplanted lung preservation and platinum drug resistance in gastrointestinal tract cancers. 

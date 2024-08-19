@@ -18,7 +18,7 @@ permalink: /people/
 
 <div class="pos_header">
 {% if role == 'fac' %}
-<h3>Researchers</h3>
+<h3>Members</h3>
 
 </div>
 

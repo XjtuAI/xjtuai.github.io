@@ -68,4 +68,4 @@ defaults:
 collections:
   people:
     output: true
-    permalink: /people/:title
+    permalink: /:title

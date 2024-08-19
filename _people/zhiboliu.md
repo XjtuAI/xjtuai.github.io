@@ -22,7 +22,7 @@ My research interests lie at the dynamic intersection of Computer Vision, Reinfo
 
 
 
-## EDUCATIONS
+## Educations
 
  **Xi’an Jiaotong University, Xi’an, China**
 
@@ -42,7 +42,7 @@ Bachelor of Science in Applied Mathematics 	    *09/2010-06/2014*
 
 
 
-## WORK EXPERIENCES
+## Work Experiences
 
 **Boyuu AI Research  Xi’an, China**
 
@@ -59,11 +59,11 @@ Bachelor of Science in Applied Mathematics 	    *09/2010-06/2014*
 - Participated in research on Reinforcement Learning, focusing on Multi-Agent Deep Reinforcement Learning Systems. Conducted coding and model training using publicly available datasets.
 - Collaborated with teams from Tsinghua University's Future Lab on AI Art research and projects. [demo](http://zhibo-liu.com/gallery)
 
-<hr>
-
-For more details, please visit my homepage at [zhibo-liu.com](http://zhibo-liu.com).
 
 
+<br>
+
+<br>
 
 
 
