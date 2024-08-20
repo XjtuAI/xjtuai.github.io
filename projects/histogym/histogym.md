@@ -19,19 +19,19 @@ permalink: /histogym/
     <a href="https://github.com/xjtuai/histogym">[github]</a> &nbsp;
     <a href="http://zhibo-liu.com/doc/histogym/bibtex.txt">[cite]</a>
 </div>
-![demo](images/histogym-demo.gif)
+![demo](/images/histogym-demo.gif)
 
 ### Introduction
 
 This paper addresses the question: ***Is the diagnostic process of doctors better modeled as a decision-making task rather than a classification task?*** We explore whether providing a reinforcement learning (RL) environment to simulate this diagnostic process is a worthwhile endeavor. The motivation for this work is straightforward: to create an RL environment that models the cancer diagnosis process using histopathological data.
 
-<img src="images/histogym-main.jpg" alt="histogym-main" style="zoom: 40%;" />
+<img src="/images/histogym-main.jpg" alt="histogym-main" style="zoom: 40%;" />
 
 ### Environment Complexity
 
 We further investigate the impact of *Environment Complexity* on reinforcement learning (RL) performance by systematically analyzing three distinct levels of complexity: *Easy*, *Medium*, and *Hard* scenarios. This analysis provides insights into how varying degrees of environmental challenges influence the learning efficiency and robustness of RL algorithms.
 
-<img src="images/histogym-wsi.jpg" alt="histogym-wsi" style="zoom:33%;" />
+<img src="/images/histogym-wsi.jpg" alt="histogym-wsi" style="zoom:33%;" />
 
 
 
