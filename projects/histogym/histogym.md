@@ -1,7 +1,4 @@
----
-title: HistoGym
-permalink: /histogym/
----
+
 
 ### HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis
 
