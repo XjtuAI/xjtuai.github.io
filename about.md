@@ -28,10 +28,10 @@ XJTU AI Research is dedicated to researching cutting-edge AI technologies. We fi
         </a>
     </div>
     <div style="flex: 2; padding-left: 20px;">
-        <h3>HistoGym</h3>
+        <h3><a href="https://xjtuai.com/histogym/">HistoGym</a></h3>
         <p>
-            HistoGym: A Reinforcement Learning Environment for Histopathological Image Analysis.
-            <a href="https://xjtuai.com/histogym/">Learn more</a>
+            Is the diagnostic process of doctors better modeled as a decision-making task rather than a classification task? To address this question, we propose HistoGym, a custom gym environment for Whole Slide Image (WSI) analysis.
         </p>
     </div>
 </div>
+<hr>
