@@ -9,7 +9,7 @@ permalink: /about/
 
 XJTU AI Research is dedicated to researching cutting-edge AI technologies. We firmly believe that the value of technology lies in its ability to enhance productivity, rather than solely in being published in high-impact journals or conferences—at least, this should not be the only criterion for evaluation. Our focus areas include
 
-- Medical AI
+- [Medical AI](https://xjtuai.com/histogym/)
 - Green AI 
 - Material AI
 - Art AI
